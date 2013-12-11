@@ -37,9 +37,9 @@ app/bower_components
 # Generated files
 
 # Local dev configuration
-# /config/development.json
-# /config/staging.json
-# /config/production.json
+# /config/environments/development.json
+# /config/environments/staging.json
+# /config/environments/production.json
 
 
 
